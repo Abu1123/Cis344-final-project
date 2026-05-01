@@ -1,4 +1,4 @@
-#CIS344-Final-Project
+CIS344-Final-Project
 
 By Aboubacar Tounkara
 
@@ -20,7 +20,7 @@ How to Run:
 1. Start Apache and MySQL
 2. Import the database into phpMyAdmin
 3. Place the project folder in htdocs
-Open: http://localhost/your-folder-name/
+Open: (http://localhost/your-folder-name/)
 
 Notes:
 - Database name: real_estate_portal_db
